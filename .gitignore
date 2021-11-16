@@ -1,9 +1,9 @@
 #ignore config file
 config.js
 
-/Earthquake_Challenge/static/js/challenge_logic_Attempt.js
-/Earthquake_Challenge/static/js/challenge_logic3.js
-/Earthquake_Challenge/static/js/logic.js
+/Final_Earthquake_Visualization/static/js/challenge_logic_Attempt.js
+/Final_Earthquake_Visualization/static/js/challenge_logic3.js
+/Final_Earthquake_Visualization/static/js/logic.js
 
 
 # Byte-compiled / optimized / DLL files
